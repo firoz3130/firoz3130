@@ -5,7 +5,7 @@
 
 
  🔭 I’m currently working on android and open source applications<br><br>
- 🌱 I’m currently learning Jetpack compose,dsa advanced level and blockchain<br><br>
+ 🌱 I’m currently learning Jetpack compose,dsa and blockchain<br><br>
  👯 I’m looking to collaborate on various open source applications<br><br>
  💬 Ask me about codes<br><br>
  📫 How to reach me: https://www.linkedin.com/in/firos-k-32193116b/<br><br>
