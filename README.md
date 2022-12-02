@@ -12,6 +12,6 @@
  😄 Pronouns: He<br><br>
  ⚡ Fact: 🌜Everything will be fine in the END🌛<br>
            🌜If it's not fine ,Then it is not the END🌛<br>
- 👀coming soon👀
+ 👀👀
 <br><br>
 
