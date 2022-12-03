@@ -9,7 +9,7 @@
  👯 I’m looking to collaborate on various open source applications<br><br>
  💬 Ask me about codes<br><br>
  📫 How to reach me: https://www.linkedin.com/in/firos-k-32193116b/<br><br>
- 😄 Pronouns: He<br><br>
+ 😄 Pronouns: HE<br><br>
  ⚡ Fact: 🌜Everything will be fine in the END🌛<br>
            🌜If it's not fine ,Then it is not the END🌛<br>
  👀👀
