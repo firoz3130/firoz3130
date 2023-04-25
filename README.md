@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **firosk7@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1J3FmoZPo-BufmMpbCvLiGTavRS3wCARXWPDtCsknzKs/edit](https://docs.google.com/document/d/1J3FmoZPo-BufmMpbCvLiGTavRS3wCARXWPDtCsknzKs/edit)
+- 📄 Know about my experiences [--->Resume<---](https://shorturl.at/dyGHM)
 
 - ⚡ Fun fact **🌜Everything will be fine in the END🌛 🌜If it's not fine ,Then it is not the END🌛 👀👀**
 
