@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **bot development,blockchain,**
 
-- 📝 I regularly write articles on [medium.com](medium.com)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@firosk7)
 
 - 📫 How to reach me **firosk7@gmail.com**
 
