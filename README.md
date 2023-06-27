@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [TripItOn]((Private Repo))
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **ReactJS && Golang**
 
 - 👯 I’m looking to collaborate on **on various open source applications**
 
