@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **on various open source applications**
 
-- 🤝 I’m looking for help with **bot development,blockchain,**
+- 🤝 I’m looking for help with **React JS && CNCF applications**
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@firosk7)
 
