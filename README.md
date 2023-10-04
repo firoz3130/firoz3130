@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firoz3130" alt="firoz3130" /></a> </p>
 
-- 🔭 I’m currently working on [TripItOn]((Private Repo))
+- 🔭 I’m currently working on [IdeaVault]((Private Repo))
 
-- 🌱 I’m currently learning **ReactJS && Golang**
+- 🌱 I’m currently working with **Typescript**
 
 - 👯 I’m looking to collaborate on **on various open source applications**
 
-- 🤝 I’m looking for help with **React JS && CNCF applications**
+- 🤝 I’m looking for help with **React JS && Backend applications**
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@firosk7)
 
