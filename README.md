@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **on various open source applications**
 
-- 🤝 I’m looking for help with **React JS && Backend applications**
+- 🤝 I’m looking for help with ** Backend applications**
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@firosk7)
 
