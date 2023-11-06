@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for help with ** Backend applications**
 
-- 📝 I regularly write articles on [medium.com](https://medium.com/@firosk7)
+- 📝 I write articles on [medium.com](https://medium.com/@firosk7)
 
-- 📫 How to reach me **firosk7@gmail.com**
+- 📫 How to reach me:  **firosk7@gmail.com**
 
 - 📄 Know about my experiences [--->Resume<---](https://shorturl.at/dyGHM)
 
