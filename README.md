@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **on various open source applications**
 
-- 🤝 I’m looking for help with ** Backend Developments**
+- 🤝 I’m looking for help with ** Full Stack**
 
 - 📝 I write articles on [medium.com](https://medium.com/@firosk7)
 
