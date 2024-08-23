@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [--->Resume<---](https://drive.google.com/file/d/1yZdJxscNxJLaN5JPo2-JKNoqxpHiC5Yc/view)
 
-- 📄 My Portfolio [--->Resume<---](https://www.firos.in/)
+- 📄 My Portfolio [firos.in](https://www.firos.in/)
 
 - ⚡ Fun fact **🌜Everything will be fine in the END🌛 🌜If it's not fine ,Then it is not the END🌛 👀👀**
 
