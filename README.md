@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firoz3130" alt="firoz3130" /></a> </p>
 
-- 🔭 I’m currently working on [IdeaVault]((Private Repo))
+- 🔭 I’m currently working on [Simple Notification Service]
 
 - 🌱 I’m currently working with **Typescript**
 
