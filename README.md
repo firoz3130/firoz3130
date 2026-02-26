@@ -1,6 +1,6 @@
 [![@firoz3130's Holopin board](https://holopin.me/firoz3130)](https://holopin.io/@firoz3130)
 <h1 align="center">Hi 👋, I'm Firos</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz3130&label=Profile%20views&color=0e75b6&style=flat" alt="firoz3130" /> </p>
 
